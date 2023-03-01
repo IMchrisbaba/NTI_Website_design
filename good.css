@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    height: 500px;
+    width: 50%;
+    margin: 50px;
+    text-align-last: right;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+h1{
+    color: yellow;
+    text-overflow: ellipsis;
+    text-indent: 30px;
+    text-rendering: geometricPrecision;
+    margin: 40px;
+    padding-left: 25px;
+}

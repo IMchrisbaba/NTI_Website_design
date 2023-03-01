@@ -1,0 +1,10 @@
+.text{
+    padding: 50px;
+}
+.col{
+    margin-top: 50px;
+    padding: 25px;
+    border-bottom-left-radius: 30px;
+    height: 600px;
+    width: 30%;
+}
